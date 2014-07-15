@@ -1,5 +1,5 @@
 {
-    "name": "alexmorbo/morbosms",
+    "name": "alexmorbo/smsmorbo",
     "type": "library",
     "description": "Класс для работы с API сервиса sms.morbo.ru",
     "license": "Apache-2.0",
