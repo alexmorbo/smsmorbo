@@ -1,0 +1,24 @@
+{
+    "name": "alexmorbo/morbosms",
+    "type": "library",
+    "description": "Класс для работы с API сервиса sms.morbo.ru",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "JhaoDa",
+            "email": "jhaoda@gmail.com"
+        },
+        {
+            "name": "AlexMorbo",
+            "email": "alex@morbo.ru"
+        },
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sms\\": "lib/"
+        }
+    }
+}
